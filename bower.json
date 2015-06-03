@@ -1,0 +1,25 @@
+{
+  "name": "pagestate",
+  "main": "pagestate.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ceesgeene/pagestate",
+  "authors": [
+    "ceesgeene <ceesgeene@gmail.com>"
+  ],
+  "keywords": [
+    "html",
+    "css",
+    "target",
+    "state",
+    "nojs",
+    "history"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
