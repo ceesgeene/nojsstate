@@ -4,7 +4,7 @@
     "pagestate.js",
     "pagestate.min.js"
   ],
-  "version": "1.0.2",
+  "version": "1.0.4",
   "homepage": "https://github.com/ceesgeene/pagestate",
   "authors": [
     "ceesgeene <ceesgeene@gmail.com>"
