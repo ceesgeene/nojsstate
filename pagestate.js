@@ -23,7 +23,7 @@
 
         var target = event.target;
         // Find closest link element.
-        while (target.tagName !== "A" && target !== document.body) {
+        while (target.tagName !== "A" && target.parentNode) {
             target = target.parentNode;
         }
         // Stop early if target is not a link or page has no state.
